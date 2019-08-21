@@ -13,13 +13,10 @@
         "taufik/workflow": "^1.0"
     },
     "license": "PHP",
-    "minimum-stability": "stable",   
+    "minimum-stability": "dev",  
     "type": "library",
-    "prefer-stable": true,
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        }
-    }
+    "include-path": [
+        "./"
+    ],
 
 }
