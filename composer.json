@@ -8,6 +8,10 @@
             "workflow": "./"
         }
     },
+    "require": {
+    "php": ">=5.6.0",
+        "taufik/workflow": "^1.0"
+    },
     "license": "PHP",
     "minimum-stability": "stable",   
     "type": "library",
