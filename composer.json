@@ -3,16 +3,18 @@
     "description": "PHP Library to working with BPMN, in a fast and scalable way",
     "type": "library",
     "keywords": ["php","bpmn","workflow"],
-    "license": "Apache-2.0",
     "autoload": {
-        "psr-4": {
-            "taufik\\workflow\\": "workflow"
+        "psr-0": {
+            "workflow": "./"
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.8.x-dev"
+            "dev-master": "1.0"
         }
-    }
+    },
+    "license": "PHP",
+    "minimum-stability": "dev",   
+     "type": "library"
 
 }
