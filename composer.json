@@ -15,6 +15,7 @@
     },
     "license": "PHP",
     "minimum-stability": "dev",   
-     "type": "library"
+    "type": "library",
+    "prefer-stable": true
 
 }
