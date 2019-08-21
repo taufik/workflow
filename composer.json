@@ -8,11 +8,6 @@
             "workflow": "./"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0"
-        }
-    },
     "license": "PHP",
     "minimum-stability": "stable",   
     "type": "library",
