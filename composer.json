@@ -5,9 +5,9 @@
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
         "psr-0": {
-            "workflow": "./"
+             "files": ["autoload.php"]
         }
-    },
+    },    
     "license": "PHP",
     "minimum-stability": "dev",  
     "type": "library",
