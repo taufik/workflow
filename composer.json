@@ -5,11 +5,10 @@
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
          "psr-0": {
-            "OmniFlow\\": "./"
+            "OmniFlow": "src/"
         }
     }, 
-    "require": {},
-    "license": "PHP",
+     "license": "PHP",
     "minimum-stability": "dev",  
     "type": "library",
     "include-path": [
