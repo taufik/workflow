@@ -5,7 +5,7 @@
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
         "psr-4": {
-            "OmniFlow": "./"
+            "OmniFlow\\": "./"
         },
         "classmap" : ["classes/", "lib/","svc/","expression","cron","controllers/","views/","autoload.php"]
     },    
