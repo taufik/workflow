@@ -6,7 +6,8 @@
     "autoload": {
          "psr-0": {
             "OmniFlow": "./"
-        }
+        },
+        "classmap" : ["classes/"]
     },
     "include-path": [
         "./"
