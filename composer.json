@@ -4,7 +4,9 @@
     "type": "library",
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
-         "psr-0": { "": "./" }
+         "psr-0": {
+            "OmniFlow\\": "./"
+        }
     }, 
     "require": {},
     "license": "PHP",
