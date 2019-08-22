@@ -7,7 +7,7 @@
         "psr-0": {
             "OmniFlow\\": ["classes/", "lib/","svc/","expression","cron","controllers/","views/"]
         },
-        "classmap":  ["classes/", "lib/","svc/","expression","cron","controllers/","views/"]
+        "files": ["autoload.php"]
     },    
     "license": "PHP",
     "minimum-stability": "dev",  
