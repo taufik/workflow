@@ -7,7 +7,7 @@
          "psr-0": {
             "OmniFlow": "./"
         },
-        "classmap" : ["classes/"]
+        "classmap" : ["classes/","models/"]
     },
     "include-path": [
         "./"
