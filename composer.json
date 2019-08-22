@@ -4,9 +4,10 @@
     "type": "library",
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
-        "psr-0": {
-             "files": ["autoload.php"]
-        }
+        "psr-4": {
+            "OmniFlow": "./"
+        },
+        "classmap" : ["classes/", "lib/","svc/","expression","cron","controllers/","views/","autoload.php"]
     },    
     "license": "PHP",
     "minimum-stability": "dev",  
