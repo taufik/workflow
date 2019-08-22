@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "OmniFlow\\": ["classes/", "lib/","svc/","expression","cron","controllers/","views/"]
         }
     },    
