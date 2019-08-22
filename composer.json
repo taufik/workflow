@@ -7,11 +7,10 @@
          "psr-0": {
             "OmniFlow": "./"
         }
-    }, 
-     "license": "PHP",
-    "minimum-stability": "dev",  
-    "type": "library",
+    },
     "include-path": [
         "./"
-    ]
+    ],
+    "license": "PHP",
+    "minimum-stability": "dev"
 }
