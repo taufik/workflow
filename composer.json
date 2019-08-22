@@ -5,9 +5,8 @@
     "keywords": ["php","bpmn","workflow"],
     "autoload": {
         "psr-4": {
-            "OmniFlow\\": "./"
-        },
-        "classmap" : ["classes/", "lib/","svc/","expression","cron","controllers/","views/"]
+            "OmniFlow\\": ["classes/", "lib/","svc/","expression","cron","controllers/","views/"]
+        }
     },    
     "license": "PHP",
     "minimum-stability": "dev",  
